@@ -8,6 +8,7 @@ Personal website for showcasing software projects in edge devices and machine le
 - [Edge Analytics Gateway](edge-analytics-gateway.html)
 - [ML-Driven PLC Tuner](ml-driven-plc-tuner.html)
 
+
 ## Development
 
 Open `index.html` in your browser to view the site locally.
