@@ -1,6 +1,6 @@
 # chrge.github.io
 
-Personal website for showcasing software projects in edge devices and machine learning integration.
+I like building things that actually run: cameras that see, robots that move, and dashboards that tell the truth. My focus is edge ML and robotics—from Gazebo and ROS 2 to YOLO on modest hardware—always with clean docs and a path to production.
 
 ## Projects
 
